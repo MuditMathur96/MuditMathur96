@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mudit Mathur</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 Over 3yrs of experience in building web applications [Expense Tracker](https://expense-tracker-zeta-six.vercel.app/)
-
 - 🌱 I’m currently learning **Golang, Low level Programming, game Development**
 
 - 💬 Ask me about **react, next, nodejs, c#**
