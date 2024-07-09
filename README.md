@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Golang, Low level Programming, game Development**
 
-- 💬 Ask me about **react, next, nodejs, c#**
+- 💬 Ask me about **react, nextjs, nodejs, c#**
 
-- 📫 How to reach me **iamudit21@gmail.com**
+- 📫 How to reach me **iammudit21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
